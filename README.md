@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adhishmanuvalsalakumar
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning dbt
+- 📫 How to reach me - adhishmanu@gmail.com
